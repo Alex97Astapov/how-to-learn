@@ -286,7 +286,9 @@ height: 32px;
 
 .footer__columns-links {
   border: 1px solid yellow;
-  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 .footer__content_social{
