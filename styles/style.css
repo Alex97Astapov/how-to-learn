@@ -81,15 +81,13 @@
   width: 568px;
 }
 
-.description{
-  margin-top: 100px;
-}
-
 .two-columns{
   display: flex;
   width: 80%;
   min-width: 784px;
   margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
   justify-content: space-between;
 }
 
