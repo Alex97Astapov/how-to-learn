@@ -1,0 +1,12 @@
+.footer__column-links {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   margin-top: 20px;
+   margin-bottom: 16px;
+   opacity: 1;
+}
+
+.footer__column-links :hover{
+   opacity: 0.5;
+}
